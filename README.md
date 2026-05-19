@@ -243,7 +243,7 @@ supply-chain-analytics-project/
 
 # 🔗 Tableau Public Dashboard
 
-(Add Tableau Public Link Here)
+([https://public.tableau.com/app/profile/joko.santoso6827/viz/SalesProductIntelligenceDashboard/ForecastingAIAnalytics?publish=yes])
 
 ---
 
@@ -261,8 +261,8 @@ Joko Santoso
 
 # 📬 Contact
 
-LinkedIn: (Add LinkedIn URL)
-GitHub: (Add GitHub URL)
+LinkedIn: [(www.linkedin.com/in/joko-santoso-484769144)]
+GitHub: [(https://github.com/santosoj160)]
 
 ---
 
