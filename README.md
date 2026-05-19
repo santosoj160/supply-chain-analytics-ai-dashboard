@@ -1,2 +1,2 @@
 # supply-chain-analytics-ai-dashboard
-End-to-end Supply Chain Analytics solution. The project analyzes sales performance, profitability, logistics operations, and predictive business trends using real-world supply chain data from DataCo Global.  The dashboard provides interactive business intelligence insights and AI-powered revenue forecasting to support strategic decision-making.
+Built an end-to-end Supply Chain Analytics project using Python, PostgreSQL, SQL, and Tableau. Developed interactive business dashboards and AI-powered revenue forecasting models to analyze sales, logistics, profitability, and operational performance.
