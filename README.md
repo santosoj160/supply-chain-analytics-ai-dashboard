@@ -182,19 +182,19 @@ Forecasting was built using Facebook Prophet to predict future monthly revenue t
 
 ## Executive Overview
 
-(Add Screenshot Here)
+[Executive Overview](https://drive.google.com/file/d/1kNJTddew3-C5Q1S64OpH4-5CoFCf-49p/view?usp=drive_link)
 
 ## Logistics Analytics
 
-(Add Screenshot Here)
+[Logistics Analytics](https://drive.google.com/file/d/1zwta_HFd_KoTDsRC2wyAA1PMx1NnqAdh/view?usp=drive_link)
 
 ## Sales Intelligence
 
-(Add Screenshot Here)
+[Sales Intelligence](https://drive.google.com/file/d/14NzrOkvd8a_9H2WsU_Pn-5Y_Hc58NfBF/view?usp=drive_link)
 
 ## AI Forecasting Dashboard
 
-(Add Screenshot Here)
+[AI Forecasting Dashboard](https://drive.google.com/file/d/1K5C7m94-lssZrkcKqsrWhqiJvK6aeYsl/view?usp=drive_link)
 
 ---
 
